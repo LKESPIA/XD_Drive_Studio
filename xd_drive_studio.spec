@@ -32,7 +32,7 @@ exe = EXE(
     strip=False,
     upx=True,
     console=False,
-    icon='assets/logo.ico'
+    icon=None
 )
 
 coll = COLLECT(
