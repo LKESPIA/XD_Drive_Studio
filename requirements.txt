@@ -1,0 +1,9 @@
+PySide6
+pymodbus
+pyserial
+pyqtgraph
+pandas
+numpy
+loguru
+sqlalchemy
+pyinstaller
